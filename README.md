@@ -67,7 +67,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-Head:
+Head: 
 ![image](https://user-images.githubusercontent.com/94219798/162628936-0ad1bff5-04f5-43bf-abdd-72d4f3f716b2.png)
 Predicted values:
 ![image](https://user-images.githubusercontent.com/94219798/162628955-b1ade7ba-6238-4cad-ad70-a80f595d4915.png)
